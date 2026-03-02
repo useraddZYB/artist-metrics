@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.concurrent.Callable;
 
 /**
+ * 业务代码接入类
+ *
  * @author zyb
  * @date 2024/11/27
  */
