@@ -3,7 +3,7 @@ package com.xsj.programmerartist.metrics.util;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 函数分阶段代码 和 函数整体 耗时
+ * 函数分阶段代码 和 函数整体 的耗时
  *
  * @Author zyb
  * @Date 2024/11/27
